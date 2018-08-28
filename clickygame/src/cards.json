@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Syndey Crosby",
+      "image": "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fnhl.bamcontent.com%2Fimages%2Fphotos%2F285534556%2F1024x576%2Fcut.jpg&imgrefurl=https%3A%2F%2Fwww.nhl.com%2Fnews%2Fpittsburgh-penguins-captain-sidney-crosby-on-pace-for-60-goals%2Fc-285534152&docid=qzaA8eVfaq-lNM&tbnid=w6hrT0x_fJGZCM%3A&vet=10ahUKEwjByZbwm5DdAhUj74MKHdZbCuAQMwgzKAQwBA..i&w=1024&h=576&bih=671&biw=1339&q=images%20sidney%20crosby&ved=0ahUKEwjByZbwm5DdAhUj74MKHdZbCuAQMwgzKAQwBA&iact=mrc&uact=8",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Connor McDavid",
+      "image": "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fnhl.bamcontent.com%2Fimages%2Fphotos%2F289047476%2F1024x576%2Fcut.jpg&imgrefurl=https%3A%2F%2Fwww.nhl.com%2Fnews%2Fconnor-mcdavid-nearing-extension-with-edmonton-oilers%2Fc-290209886&docid=sL2Ewj7Q5tbteM&tbnid=SBdh8RM_YAJb2M%3A&vet=10ahUKEwj676K0nJDdAhWi6oMKHdZtB5YQMwg4KAcwBw..i&w=1024&h=576&bih=671&biw=1339&q=images%20conner%20mcdavid&ved=0ahUKEwj676K0nJDdAhWi6oMKHdZtB5YQMwg4KAcwBw&iact=mrc&uact=8",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Auston Matthews",
+      "image": "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fimages.performgroup.com%2Fdi%2Flibrary%2Fsporting_news%2Ffd%2F3c%2Fauston-matthews-081917-getty-ftr-usjpg_1c4ptrysdiodz1kci9gojowf1s.jpg%3Ft%3D-60146427%26w%3D960%26quality%3D70&imgrefurl=http%3A%2F%2Fwww.sportingnews.com%2Fus%2Fnhl%2Fnews%2Fwatch-amid-injury-doubts-toronto-maple-leafs-star-auston-matthews-dishes-dizzying-assist-nhl%2F1kwy919zmndeg1gtqj0dglsxkz&docid=gaX1C-Im3BBLmM&tbnid=qEODqgmSmhO5aM%3A&vet=10ahUKEwjSps35nJDdAhWP8oMKHbFuCiQQMwhVKBYwFg..i&w=960&h=540&bih=671&biw=1339&q=images%20austin%20mathews&ved=0ahUKEwjSps35nJDdAhWP8oMKHbFuCiQQMwhVKBYwFg&iact=mrc&uact=8",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Alex Ovechkin",
+      "image": "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fwtop.com%2Fwp-content%2Fuploads%2F2017%2F11%2FOvechkin-AP-727x485.jpg&imgrefurl=https%3A%2F%2Fwtop.com%2Fwashington-capitals%2F2017%2F11%2Fdespite-fast-start-alex-ovechkin-still-trails-all-time-hat-trick-leaders%2F&docid=I8SXb5JnHgQ5yM&tbnid=YobAIPZ3ewYu1M%3A&vet=10ahUKEwiXgYnZnZDdAhVH6YMKHTA6AMAQMwg2KAMwAw..i&w=727&h=485&bih=671&biw=1339&q=images%20alex%20ovech&ved=0ahUKEwiXgYnZnZDdAhVH6YMKHTA6AMAQMwg2KAMwAw&iact=mrc&uact=8",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Erik Karlsson",
+      "image": "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fimages.performgroup.com%2Fdi%2Flibrary%2Fsporting_news%2F31%2F8f%2Ferik-karlsson-022418-getty-ftrjpg_3zh54vtiwy0h1aeq4u1t48p0u.jpg%3Ft%3D-927641007%26w%3D960%26quality%3D70&imgrefurl=http%3A%2F%2Fwww.sportingnews.com%2Fus%2Fnhl%2Fnews%2Fnhl-trade-rumors-2018-erik-karlsson-update-lightning-stars-golden-knights-bruins-hurricanes%2F1bxpoelm57yyy182zap0rkmsbo&docid=KuWaSI8x_ALCnM&tbnid=n69m6K8zyh6daM%3A&vet=10ahUKEwj83cqInpDdAhVh04MKHd3xADEQMwg2KAMwAw..i&w=960&h=540&bih=671&biw=1339&q=images%20eric%20karellson&ved=0ahUKEwj83cqInpDdAhVh04MKHd3xADEQMwg2KAMwAw&iact=mrc&uact=8",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Jonathan Toews",
+      "image": "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fcbschicago.files.wordpress.com%2F2017%2F02%2Fgettyimages-644809346-e1488215218108.jpg%3Fw%3D640%26h%3D360%26crop%3D1&imgrefurl=https%3A%2F%2Fchicago.cbslocal.com%2Ftag%2Fjonathan-toews%2F&docid=2X07WEaeoLQFDM&tbnid=vUMmn733heKiyM%3A&vet=10ahUKEwimoZ2xnpDdAhWC3YMKHatJDvgQMwhnKCswKw..i&w=640&h=360&bih=671&biw=1339&q=images%20Jonathan%20Toews&ved=0ahUKEwimoZ2xnpDdAhWC3YMKHatJDvgQMwhnKCswKw&iact=mrc&uact=8",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Victor Hedman",
+      "image": "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fnhl.bamcontent.com%2Fimages%2Fphotos%2F294894380%2F1024x576%2Fcut.jpg&imgrefurl=https%3A%2F%2Fwww.nhl.com%2Fnews%2Fvictor-hedman-out-3-6-weeks-for-lightning%2Fc-294894152&docid=SRxlRiqtdZRyYM&tbnid=Xb3ldESWSw62UM%3A&vet=10ahUKEwj8lcOFoJDdAhWJ54MKHRlZB9IQMwg4KAUwBQ..i&w=1024&h=576&bih=671&biw=1339&q=images%20Victor%20Hedman&ved=0ahUKEwj8lcOFoJDdAhWJ54MKHRlZB9IQMwg4KAUwBQ&iact=mrc&uact=8",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Drew Doughty",
+      "image": "https://www.google.ca/imgres?imgurl=https%3A%2F%2F3zn5fx1v7mes40r4203cfqze-wpengine.netdna-ssl.com%2Fwp-content%2Fuploads%2F2016%2F05%2Fdrew-doughy-square.jpg&imgrefurl=https%3A%2F%2Fportuguesecanadianwalkoffame.com%2Fportfolio-item%2Fdrew-doughty%2F&docid=PeLBA9-sAA4iQM&tbnid=TLise8Oeiqqo9M%3A&vet=10ahUKEwj23eSjoJDdAhVM7IMKHcBaCiwQMwg2KAYwBg..i&w=798&h=798&bih=671&biw=1339&q=images%20Drew%20Doughty&ved=0ahUKEwj23eSjoJDdAhVM7IMKHcBaCiwQMwg2KAYwBg&iact=mrc&uact=8",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "P.K. Subban",
+      "image": "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fhockeyfeed.fw.cdnpull.com%2Fmain_resized_730x380_59f36879e6bac_213630.jpg&imgrefurl=https%3A%2F%2Fhockeyfeed.com%2Fnhl-news%2Fpk-subban-the-next-preds-captain&docid=aUWwnUEva9ryLM&tbnid=wWlvP4Koz73iQM%3A&vet=10ahUKEwiBnauIoZDdAhUm_IMKHbTzCIkQMwg2KAIwAg..i&w=730&h=380&bih=671&biw=1339&q=images%20P.K.%20Subban&ved=0ahUKEwiBnauIoZDdAhUm_IMKHbTzCIkQMwg2KAIwAg&iact=mrc&uact=8",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "Johnny Gaudreau",
+      "image": "./public/img/players/goudreau.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "John Tavares",
+      "image": "./public/img/players/tavares.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Jack Eichel",
+      "image": "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fvideo-images.vice.com%2Farticles%2F59c296817b2815755e0c3c03%2Flede%2F1505929569556-JackEichelUSASeptember.jpeg%3Fcrop%3D1xw%253A0.9663xh%253B0xw%252C0.0174xh%26resize%3D650%253A*%26output-quality%3D55&imgrefurl=https%3A%2F%2Fsports.vice.com%2Fen_ca%2Farticle%2F9k3amp%2Famerica-needs-buffalos-jack-eichel-to-be-a-superstar&docid=G5fvYo5jcGQL8M&tbnid=DzZj3I9pdGOW4M%3A&vet=10ahUKEwiagffWopDdAhXm5YMKHeYxAU0QMwg5KAYwBg..i&w=650&h=364&bih=671&biw=1339&q=images%20Jack%20Eichel&ved=0ahUKEwiagffWopDdAhXm5YMKHeYxAU0QMwg5KAYwBg&iact=mrc&uact=8",
+      "clicked": false
+    }
+  ]
+  
