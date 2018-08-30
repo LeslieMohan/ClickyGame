@@ -6,3 +6,5 @@ This is a memory game created using REACT.  The app renders images which the use
 ## Link to Game
 
 [NHL Clicky Game](https://thawing-headland-85137.herokuapp.com)
+
+![screenshot](./public/img/screenshot.png)
